@@ -1,3 +1,5 @@
+//Questões de 1 a 7
+
 //1) 
 var a = Number(prompt('Digite um valor: '))
 var b = Number(prompt('Digite outro valor: '))
