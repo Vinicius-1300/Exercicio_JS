@@ -1,3 +1,5 @@
+//Questões de 13 a 17
+
 //13)
 var nome = String(prompt('Qual o seu nome? '))
 var idade = Number(prompt('Qual a sua idade? '))
